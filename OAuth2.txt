@@ -1,0 +1,10 @@
+1) Login with google.
+2) Google login Page
+3) login to Google
+4) Consent
+5) Auth Code
+6) Frontend receives Auth Code
+7) Frontend send code to backend
+8) Backend send secret and code to google
+9) Backend receives access token
+10) Backend validate token, grant access to users 
